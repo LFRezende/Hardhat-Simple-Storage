@@ -1,6 +1,5 @@
 # Tips to SimpleStorage in Hardhat
 
-# Lembretes de operação hardhat
 
 ## Iniciar qualquer projeto:
 
